@@ -1,0 +1,17 @@
+{
+  "name": "resultsticker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server/server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smashgg-recent-results": "^1.0.4"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
